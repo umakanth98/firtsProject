@@ -1,0 +1,32 @@
+.bg-container{
+    background-image: url("https://img.freepik.com/premium-photo/yellow-car-with-globe-hat-sunglasses-camera-multicolored-suitcases-roof_157927-1233.jpg?w=826");
+    height: 100vh;
+    background-size: cover;
+}
+
+.container{
+    background-color: transparent;
+
+}
+.heading{
+    color:rgba(237, 229, 229, 0.929);
+    text-align: center;
+    font-size: 30px;
+    font-family: serif;
+    font-weight: 600;
+    font-style: inherit;
+    padding:50px;    
+
+}
+.startbutton{
+    height: 60px;
+    width: 138px;
+    background-image: url("https://img.freepik.com/premium-photo/bus-with-geometric-shapes-decoration_161488-522.jpg?w=900");
+    background-size: cover;
+    border-top-right-radius: 20px;
+    border-top-left-radius: 20px;
+    border-bottom-right-radius: 20px;
+    border-width: 0;
+    
+    
+}

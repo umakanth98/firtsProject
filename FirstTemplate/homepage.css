@@ -1,0 +1,64 @@
+.bg-container{
+    background-color:rgb(143, 141, 141);
+    height: 120vh;
+    background-size: cover;
+    
+}
+.first-container{
+    background-image: url("https://tse1.mm.bing.net/th?id=OIP.OeWFYk5QtBwwBcE6cCViRwHaE7&pid=Api&P=0&h=180");
+    height: 24vh;
+    margin: 20px;
+    border-radius: 4px;
+}
+.main-heading{
+    color: #ffffff;
+    font-size: 30px;
+    font-family: cursive;
+    margin: 10px;
+    margin-top: 40px;
+}
+
+.second-container{
+    margin: 20px;
+    
+}
+
+.card-container{
+    background-color: #ffffff;
+    height:75vh;
+    width: 300px;
+    margin: 10px;
+    border-radius: 5px;
+    text-align: center; 
+    
+}
+.image{
+    width: 100%;
+    height: auto;
+}
+.datetoday{
+    color: darkslategrey;
+    font-size: 12px;
+    padding: 6px;
+    font-weight: 700;
+}
+.heading{
+    color:black;
+    font-family: cursive;
+    font-size: 20px;
+    padding-left: 6px;
+    font-weight: 600;
+
+}
+.hip-hop{
+    color: darkslategrey;
+    font-size: 12px;
+    padding-left: 6px;
+    font-weight: 700;
+} 
+.para{
+    color: rgb(93, 99, 99);
+    font-size: 14px;
+    font-weight: 500;
+    padding-left: 6px;
+}
